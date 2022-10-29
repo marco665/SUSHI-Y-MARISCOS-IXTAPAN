@@ -1,0 +1,55 @@
+h1{font-size: 80px;
+    color:#FBFCFC;
+}
+h2{
+  color: #FBFCFC;
+  font-size: 65px;
+}
+h3{
+  color: #FDFEFE;
+  font-size: 40px;
+}
+
+p{
+  font-size: 40px;
+  color:#FDFEFE;
+
+}
+div img{
+  width: 300px;
+  height: 200px;
+  position: absolute;
+  top: 0
+  bottom: 0
+  right: 320px;
+  left: 1000px;
+
+
+}
+body{
+  background: #85C1E9;
+  margin: auto;
+  margin: 20px;
+  background-image: url(imagenes/marcos.PNG)
+
+}
+div {
+  width: 97%;
+  background:#ff8000;
+  margin: 20px;
+
+}
+
+nav{
+  width: 10px;
+  margin: 0;
+  color: green;
+}
+table{
+  color: #FDFEFE;
+  font-size: 30px;
+}
+ul{
+  color: #FDFEFE;
+  font-size: 30PX;
+}
